@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Transfer Cash</name>
+   <tag></tag>
+   <elementGuidId>81ed45b2-3e89-4b75-b845-e44bb6a807c0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.h3_L001.accordionheader.rootheaderappMenu.ui-widget-header</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_selenuimL001']/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>3902c396-5f0f-4d1e-8507-d57a0770e95c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h3_L001 accordionheader rootheaderappMenu ui-widget-header</value>
+      <webElementGuid>70ab57c9-b543-4f65-be8e-aa6a6469309c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>headerindex</name>
+      <type>Main</type>
+      <value>4h</value>
+      <webElementGuid>00a94a83-a2d4-41ad-a49f-a1fbba0afe96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer Cash</value>
+      <webElementGuid>ee61f915-aac4-4ec8-9a75-f93dd8986432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_selenuimL001&quot;)/h3[@class=&quot;h3_L001 accordionheader rootheaderappMenu ui-widget-header&quot;]</value>
+      <webElementGuid>280ddc38-7dc2-4165-946b-4dd3dc3f7644</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_selenuimL001']/h3</value>
+      <webElementGuid>08fa8ab5-0bf8-4a2e-83bc-d1c304931a32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recording of Remittance'])[2]/following::h3[1]</value>
+      <webElementGuid>cd47de47-2e62-4efa-8fd9-76b056e00b32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recording of Remittance'])[1]/following::h3[1]</value>
+      <webElementGuid>ea5004d5-c0f9-43b8-9af5-c0bdb4ed0c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Cash'])[2]/preceding::h3[1]</value>
+      <webElementGuid>8c02d927-74a7-41ba-b9a7-8d66835d01a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/h3</value>
+      <webElementGuid>ee63c7b6-eba7-4182-8b7b-f79f30e92d55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Transfer Cash' or . = 'Transfer Cash')]</value>
+      <webElementGuid>af548826-0978-42c6-9b81-63d35861d4ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

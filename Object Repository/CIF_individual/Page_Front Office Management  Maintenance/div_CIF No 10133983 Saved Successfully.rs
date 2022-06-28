@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CIF No 10133983 Saved Successfully</name>
+   <tag></tag>
+   <elementGuidId>082a5008-427d-401d-9acb-194abb79b034</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div__popup_path_sol_ok']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.jMsgbox-contentWrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d5f3897-c0ff-4f72-9c11-f02f550bef80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jMsgbox-contentWrap</value>
+      <webElementGuid>7c1e9914-e374-4323-9b06-226b11f82b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CIF No 10133983 Saved Successfully</value>
+      <webElementGuid>fe9e33bc-3086-4c4f-a416-ece2c80a627f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div__popup_path_sol_ok&quot;)/div[2]/div[@class=&quot;jMsgbox-contentWrap&quot;]</value>
+      <webElementGuid>a1454fa9-d56a-43a3-84aa-a53469fb194a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div__popup_path_sol_ok']/div[2]/div</value>
+      <webElementGuid>fd512868-612a-4645-9e44-f25499ad7e50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::div[3]</value>
+      <webElementGuid>e13e3c36-528c-486c-bac8-580f26383b5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[9]/following::div[10]</value>
+      <webElementGuid>2bf6d7a8-9a26-4b71-af2b-45f4c5e87ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CIF No 10133983 Saved Successfully']/parent::*</value>
+      <webElementGuid>e23ba6c6-c6c4-4e3d-a3e3-b8d5d253bdeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[26]/div[2]/div</value>
+      <webElementGuid>18fccc10-2382-4ff7-8129-66614f9c5311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CIF No 10133983 Saved Successfully' or . = 'CIF No 10133983 Saved Successfully')]</value>
+      <webElementGuid>7d1afc39-879d-4643-a7bc-d0183f2e2596</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

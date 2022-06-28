@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Decimal Points_ui-icon ui-icon-plus</name>
+   <tag></tag>
+   <elementGuidId>5b86c7c2-72fd-4b66-9027-698f9a4a1ec7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-pg-div > span.ui-icon.ui-icon-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='add_transferCashSubCashGridTbl_Id_L0VVMT']/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f2f18547-3237-4925-8237-d56d9a6fde86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-plus</value>
+      <webElementGuid>ef790833-eede-4793-a518-2bc287968c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add_transferCashSubCashGridTbl_Id_L0VVMT&quot;)/div[@class=&quot;ui-pg-div&quot;]/span[@class=&quot;ui-icon ui-icon-plus&quot;]</value>
+      <webElementGuid>620de2fb-f266-4d70-a1aa-a134abe35f4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='add_transferCashSubCashGridTbl_Id_L0VVMT']/div/span</value>
+      <webElementGuid>ea1e02b2-8ffa-4c42-823a-f0ab564e2f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[5]/div/table/tbody/tr/td/table/tbody/tr/td/div/span</value>
+      <webElementGuid>f69cef99-8e3b-4996-8949-08c0715b96ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

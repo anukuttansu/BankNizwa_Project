@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Record Saved Successfully</name>
+   <tag></tag>
+   <elementGuidId>e6321e85-37ff-46c8-9ac4-cc475d4d77d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.jMsgbox-contentWrap</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div__popup_path_sol_ok']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fdf35533-027c-4146-b11b-0ce2c491fe9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jMsgbox-contentWrap</value>
+      <webElementGuid>ccdfda9d-c545-44d9-a9ef-6bf839c397ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Record Saved Successfully</value>
+      <webElementGuid>be6b0a53-51d0-4a57-95e8-839c6d8bd0d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div__popup_path_sol_ok&quot;)/div[2]/div[@class=&quot;jMsgbox-contentWrap&quot;]</value>
+      <webElementGuid>348ccce1-2f98-4829-9b06-4290fd04fc09</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div__popup_path_sol_ok']/div[2]/div</value>
+      <webElementGuid>7451a194-6faf-4730-a667-633bfdb5f2d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::div[3]</value>
+      <webElementGuid>4951516f-8bb5-4503-b331-2114f6d18862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[7]/following::div[10]</value>
+      <webElementGuid>c11d44de-13e0-477b-8085-e400291cbadc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Alert'])[1]/preceding::div[1]</value>
+      <webElementGuid>e18e452a-9719-49ff-ab78-8f0f1b1e3f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/preceding::div[1]</value>
+      <webElementGuid>6c3cc7b1-9299-44ee-9a9e-6c67c5607518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Record Saved Successfully']/parent::*</value>
+      <webElementGuid>8f0c5747-776f-4bf1-9c43-0324a69e7f69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[24]/div[2]/div</value>
+      <webElementGuid>5747ec40-d561-4d46-9314-9a23a74103dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Record Saved Successfully' or . = 'Record Saved Successfully')]</value>
+      <webElementGuid>de0012be-10eb-4f46-9304-3a1afd1e2a0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

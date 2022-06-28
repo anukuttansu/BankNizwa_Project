@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_More Details</name>
+   <tag></tag>
+   <elementGuidId>16f80532-64d9-46f6-9221-4e5c8e357eb7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='moreDetails_trxSubmit']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#moreDetails_trxSubmit > span.ui-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fc9cf471-94c4-4673-b201-bd203aa6db5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>8283eaa9-feab-4b78-baf1-fe42aec5ea5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> More Details  
+</value>
+      <webElementGuid>e81e6815-4e94-4e84-896f-46cbe5b8254c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;moreDetails_trxSubmit&quot;)/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>533f4074-4e52-43e6-b24a-94109d29e03f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='moreDetails_trxSubmit']/span[2]</value>
+      <webElementGuid>254664f2-0aba-49c2-808d-4d98b0356a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booked Entries'])[1]/following::span[2]</value>
+      <webElementGuid>c0bef4b3-4fda-4c9f-ac5b-28edb4c1ca20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CY Denom.'])[1]/following::span[4]</value>
+      <webElementGuid>1115c37f-7a52-4824-8873-a01855db9374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Adv Profit'])[1]/preceding::span[2]</value>
+      <webElementGuid>14c81cf0-89c1-4f9d-b8f6-ef23df14cba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/div/button/span[2]</value>
+      <webElementGuid>ba3388e4-decd-46b1-affe-153b486404cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' More Details  
+' or . = ' More Details  
+')]</value>
+      <webElementGuid>5af60b2e-5b6a-44f6-bb51-5cb4ece0e25a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

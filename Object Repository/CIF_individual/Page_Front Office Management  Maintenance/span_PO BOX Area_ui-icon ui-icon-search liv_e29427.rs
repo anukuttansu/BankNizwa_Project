@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PO BOX Area_ui-icon ui-icon-search liv_e29427</name>
+   <tag></tag>
+   <elementGuidId>9b531bc7-166d-4319-8616-6bfc312efa67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='spanLookup_addressCO_POBOX_AREA_F00I1MT']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#spanLookup_addressCO_POBOX_AREA_F00I1MT > span.ui-icon.ui-icon-search.live-search-ui</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>94910f10-bb53-4ffb-8b68-6316233c0c36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-search live-search-ui</value>
+      <webElementGuid>0b6e2c22-ea4b-4b9c-8061-764a08de5520</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;spanLookup_addressCO_POBOX_AREA_F00I1MT&quot;)/span[@class=&quot;ui-icon ui-icon-search live-search-ui&quot;]</value>
+      <webElementGuid>0aa79aa7-3332-4e7e-9b32-db15cced04c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='spanLookup_addressCO_POBOX_AREA_F00I1MT']/span</value>
+      <webElementGuid>0c3e094d-5184-4067-8c14-c0f65b7d9434</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/div/table/tbody/tr/td/div/span/span</value>
+      <webElementGuid>4dcc59a5-16e2-4cc8-97ec-7488e4623ea9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

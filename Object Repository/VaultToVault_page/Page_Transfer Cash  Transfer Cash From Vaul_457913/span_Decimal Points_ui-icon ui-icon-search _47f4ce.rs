@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Decimal Points_ui-icon ui-icon-search _47f4ce</name>
+   <tag></tag>
+   <elementGuidId>a5fa9907-850c-4fbd-9a72-c98192295135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/table/tbody/tr/td/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>03d85779-06fe-4031-9414-dc5a40a77128</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-search live-search-ui</value>
+      <webElementGuid>7c0d348e-188a-4552-8de3-1063b999253e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_1655880641080_ctstellerCashBalanceDetVO.CURRENCY_CODE_spanLookup_transferCashSubCashGridTbl_Id_L0VVMT&quot;)/span[@class=&quot;ui-icon ui-icon-search live-search-ui&quot;]</value>
+      <webElementGuid>9db26b9a-ba7d-479d-b367-cb4b69fa908c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='new_1655880641080_ctstellerCashBalanceDetVO.CURRENCY_CODE_spanLookup_transferCashSubCashGridTbl_Id_L0VVMT']/span</value>
+      <webElementGuid>5f5f5d99-fe9b-402d-9369-63c606442e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/table/tbody/tr/td/div/span/span</value>
+      <webElementGuid>d7a44405-89a7-497c-848b-960521ab768c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

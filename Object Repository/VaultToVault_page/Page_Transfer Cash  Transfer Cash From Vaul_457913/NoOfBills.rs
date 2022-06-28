@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>NoOfBills</name>
+   <tag></tag>
+   <elementGuidId>3c643723-d944-4ba2-bf7f-d3246e14b872</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='1_ctstellerCashBalanceCyNomVO.COUNTED_NUMBER_OF_BILLS_trsfrCashcyDenomGridTbl_Id_L0VVMT']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Decimal Points_add_transferCashSubCashGr_9b8bba</name>
+   <tag></tag>
+   <elementGuidId>c0fb3c87-c675-4a8d-b85a-3f69535ea421</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#add_transferCashSubCashGridTbl_Id_L0VVMT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='add_transferCashSubCashGridTbl_Id_L0VVMT']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>426fac68-73ab-4630-8737-74d324708637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-pg-button ui-corner-all ui-state-hover</value>
+      <webElementGuid>50bfd96a-9dcf-42be-918f-3452457598f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add new row</value>
+      <webElementGuid>ae0d3538-cd6b-4f03-a559-bbea8fe32db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add_transferCashSubCashGridTbl_Id_L0VVMT</value>
+      <webElementGuid>9fafbc54-b84c-4ae0-bcd6-c9bbb2d3cba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add_transferCashSubCashGridTbl_Id_L0VVMT&quot;)</value>
+      <webElementGuid>a8898cca-ff31-46bf-adea-739c5c92fa44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='add_transferCashSubCashGridTbl_Id_L0VVMT']</value>
+      <webElementGuid>3d456f55-1d25-45f4-96fc-95d8b1a41fae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='transferCashSubCashGridTbl_Id_L0VVMT_pager_left']/table/tbody/tr/td</value>
+      <webElementGuid>945431c0-1b05-4203-a580-09e6af1c55f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Decimal Points'])[1]/following::td[30]</value>
+      <webElementGuid>45f2b7ff-5a44-4bf7-993f-c54e62194f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JV OP.No'])[1]/following::td[30]</value>
+      <webElementGuid>8045b3e2-18b1-4664-b086-448d80d7319f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No records to view'])[2]/preceding::td[4]</value>
+      <webElementGuid>dca5c81c-e8ea-4534-ad08-89ae2bcbb165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[3]/preceding::td[15]</value>
+      <webElementGuid>24e36e9f-5ad8-4528-867a-5272bdee8510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[5]/div/table/tbody/tr/td/table/tbody/tr/td</value>
+      <webElementGuid>7d98cc79-aa96-4d35-aeea-863b431c9561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@title = 'Add new row' and @id = 'add_transferCashSubCashGridTbl_Id_L0VVMT']</value>
+      <webElementGuid>d9387c6c-dffd-4cc7-af81-6b47629deeaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

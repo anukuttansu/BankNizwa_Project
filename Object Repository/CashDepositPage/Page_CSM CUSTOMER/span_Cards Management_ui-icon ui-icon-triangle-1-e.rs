@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cards Management_ui-icon ui-icon-triangle-1-e</name>
+   <tag></tag>
+   <elementGuidId>9b571b33-3121-4608-955f-b16be570be7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_selenuimD001']/h3/table/tbody/tr/td/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h3.h3_D001.accordionheader.rootheaderappMenu.ui-widget-header > table.tableProp > tbody > tr > td > span.accordprefix > span.ui-icon.ui-icon-triangle-1-e</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>11c16ca1-b60a-4760-88c8-652cc928fc58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-triangle-1-e</value>
+      <webElementGuid>b44acda5-fe6b-46ec-8512-4b51982f30a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_selenuimD001&quot;)/h3[@class=&quot;h3_D001 accordionheader rootheaderappMenu ui-widget-header&quot;]/table[@class=&quot;tableProp&quot;]/tbody[1]/tr[1]/td[1]/span[@class=&quot;accordprefix&quot;]/span[@class=&quot;ui-icon ui-icon-triangle-1-e&quot;]</value>
+      <webElementGuid>32a41827-7ed2-4b06-bea8-4b470bf9ea71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_selenuimD001']/h3/table/tbody/tr/td/span/span</value>
+      <webElementGuid>041310a2-c79f-42fc-add1-3489a9b7199d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/h3/table/tbody/tr/td/span/span</value>
+      <webElementGuid>4bd5a7d9-94de-43b2-ab93-5e40be9b311a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

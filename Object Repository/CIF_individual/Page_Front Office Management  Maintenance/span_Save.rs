@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Save</name>
+   <tag></tag>
+   <elementGuidId>1fea8264-594a-4f45-ac73-22eea1397574</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='fom_Save_btn_F00I1MT']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fom_Save_btn_F00I1MT > span.ui-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>09e79a9b-58d5-49db-b9fd-62a0a7a26f62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>2fe5da0d-8afe-496c-82af-f8808780f6ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Save  
+</value>
+      <webElementGuid>6bba1b41-9a54-42fe-8da1-2437a06a137e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fom_Save_btn_F00I1MT&quot;)/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>d16623d3-41be-4331-96ae-fff1cad7c62b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='fom_Save_btn_F00I1MT']/span[2]</value>
+      <webElementGuid>4cab5f61-609b-45b3-b2dc-8ec8ee9c0310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Fields'])[2]/following::span[2]</value>
+      <webElementGuid>ab9c7a67-df42-4423-8722-83c6746e0fa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Team'])[1]/following::span[6]</value>
+      <webElementGuid>ef743672-9ee2-4798-af6a-02daf068e3bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/span[2]</value>
+      <webElementGuid>5fd3b578-654b-4f76-bda0-faf0ae1105c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Save  
+' or . = ' Save  
+')]</value>
+      <webElementGuid>eba259e9-4b2c-42b4-99d5-d3995e2671cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

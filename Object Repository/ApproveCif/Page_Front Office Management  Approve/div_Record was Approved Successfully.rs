@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Record was Approved Successfully</name>
+   <tag></tag>
+   <elementGuidId>2701ee14-81f3-4bcb-9923-6a2292633441</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div__popup_path_sol_ok']/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.jMsgbox-contentWrap</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f35ba817-07e9-42ea-b252-616043a4feb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jMsgbox-contentWrap</value>
+      <webElementGuid>13e2abd6-1931-409f-8033-2ad14270be4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Record was Approved Successfully</value>
+      <webElementGuid>e16497e2-f6fe-43ca-8df4-0d09c9a7029f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;div__popup_path_sol_ok&quot;)/div[2]/div[@class=&quot;jMsgbox-contentWrap&quot;]</value>
+      <webElementGuid>c7e5bb59-2a90-418e-9951-3eab00391b35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='div__popup_path_sol_ok']/div[2]/div</value>
+      <webElementGuid>65b6ca27-7b19-45c0-a8f9-0e66f931fdf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success'])[1]/following::div[3]</value>
+      <webElementGuid>1724087c-bc5f-46d4-a3dd-2913050790e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please, select row'])[1]/following::div[11]</value>
+      <webElementGuid>e60f19f6-25d9-499b-b5c0-26cb2fb7a009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Record was Approved Successfully']/parent::*</value>
+      <webElementGuid>79d86e1e-66d2-4d0d-b3ff-6da81b3f33af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div[2]/div</value>
+      <webElementGuid>3c1bef0f-98c7-4b64-81f9-781b1f9954fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Record was Approved Successfully' or . = 'Record was Approved Successfully')]</value>
+      <webElementGuid>7f0f1163-7f38-480f-8a22-aff151050caa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Transactions</name>
+   <tag></tag>
+   <elementGuidId>5589701f-a842-420d-9fe7-4e74c068b4b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_selenuimD001']/h3/table/tbody/tr/td[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>907737be-d00e-48f3-9953-f138a7877da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transactions</value>
+      <webElementGuid>3265bf0e-5625-478c-bcc9-42a2b287988d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_selenuimD001&quot;)/h3[@class=&quot;h3_D001 accordionheader rootheaderappMenu ui-widget-header&quot;]/table[@class=&quot;tableProp&quot;]/tbody[1]/tr[1]/td[2]</value>
+      <webElementGuid>86ceab4e-a613-4158-8d31-6ce3135a17b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_selenuimD001']/h3/table/tbody/tr/td[2]</value>
+      <webElementGuid>e6cb2145-c72e-46f3-b733-dd3c2685aa5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memo Detail'])[2]/following::td[2]</value>
+      <webElementGuid>339a022b-1115-4a96-8242-57d3ca166478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Memo Detail'])[1]/following::td[3]</value>
+      <webElementGuid>10b53740-f5cf-480f-ad1e-cf9ce4b43a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[2]/preceding::td[2]</value>
+      <webElementGuid>2ae987ae-755d-4997-8e7e-1c48d4fb9d9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::td[3]</value>
+      <webElementGuid>8a566e4d-6949-4c1d-b536-e0b864353e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transactions']/parent::*</value>
+      <webElementGuid>c1b0180a-39ef-4b35-8dc7-3493e576fa3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/h3/table/tbody/tr/td[2]</value>
+      <webElementGuid>40ec29df-6d34-4dc6-b10f-f464815f67b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Transactions' or . = 'Transactions')]</value>
+      <webElementGuid>f91b82e0-7bd5-49da-9950-748c4c1676ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

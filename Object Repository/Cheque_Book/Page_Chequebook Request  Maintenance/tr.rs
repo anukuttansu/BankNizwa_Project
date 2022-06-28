@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr</name>
+   <tag></tag>
+   <elementGuidId>88b55b6e-b303-49ce-ab81-9b8323610083</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tbl_pathAccount_ > tbody > tr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tbl_pathAccount_']/tbody/tr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+      <webElementGuid>32591df5-e1bf-4e44-9441-9649d1531a3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tbl_pathAccount_&quot;)/tbody[1]/tr[1]</value>
+      <webElementGuid>ff93cacd-4872-44b0-8dff-dd942ea12cab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tbl_pathAccount_']/tbody/tr</value>
+      <webElementGuid>e4e2d8a2-45a3-421f-a9a3-f6f9e69d754e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='A/C No.'])[1]/following::tr[1]</value>
+      <webElementGuid>27b8f2a4-9dce-4346-a70c-34ca92747335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Number'])[1]/following::tr[3]</value>
+      <webElementGuid>c16dff9d-6de0-472b-bf9f-c0053029e682</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Name'])[1]/preceding::tr[4]</value>
+      <webElementGuid>ec29e656-3656-4371-a660-e298c6c24d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Cy'])[1]/preceding::tr[5]</value>
+      <webElementGuid>be5a448c-fdf6-4e14-9d53-868f0880a443</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr/td/table/tbody/tr/td[2]/table/tbody/tr</value>
+      <webElementGuid>c5773f5f-9bb5-46c3-9cc9-5ead7200e4db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

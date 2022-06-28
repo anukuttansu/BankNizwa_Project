@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Recording of Remittance_ui-icon ui-ico_84a6bf</name>
+   <tag></tag>
+   <elementGuidId>6711617d-b34c-44c6-bcc9-90e6cfb58cbc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.h3_L001.accordionheader.rootheaderappMenu.ui-widget-header > table.tableProp > tbody > tr > td > span.accordprefix > span.ui-icon.ui-icon-triangle-1-e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_selenuimL001']/h3/table/tbody/tr/td/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a9768b5f-2cdd-4b5c-a191-979128a7dd06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-triangle-1-e</value>
+      <webElementGuid>79b384f9-2b00-49e6-aebb-662ea6ba0d02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_selenuimL001&quot;)/h3[@class=&quot;h3_L001 accordionheader rootheaderappMenu ui-widget-header&quot;]/table[@class=&quot;tableProp&quot;]/tbody[1]/tr[1]/td[1]/span[@class=&quot;accordprefix&quot;]/span[@class=&quot;ui-icon ui-icon-triangle-1-e&quot;]</value>
+      <webElementGuid>dcfe6406-d9a4-4eb4-a86e-18d901c56c8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_selenuimL001']/h3/table/tbody/tr/td/span/span</value>
+      <webElementGuid>d091fdbd-1df5-470a-837a-532df4cb5264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/h3/table/tbody/tr/td/span/span</value>
+      <webElementGuid>d76c5b9a-7263-4288-8cc5-35d86febc9de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

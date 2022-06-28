@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__ui-icon ui-icon-search live-search-ui</name>
+   <tag></tag>
+   <elementGuidId>3593e8ba-bfb4-4e57-a820-7d0eb6bee8fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='spanLookup_countryOfIssuance_F00I1MT']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#spanLookup_countryOfIssuance_F00I1MT > span.ui-icon.ui-icon-search.live-search-ui</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9b85d1a7-5ff4-481e-9be3-1ecb23aa6c7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-search live-search-ui</value>
+      <webElementGuid>e5f043ee-13ea-430f-8233-31032563c579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;spanLookup_countryOfIssuance_F00I1MT&quot;)/span[@class=&quot;ui-icon ui-icon-search live-search-ui&quot;]</value>
+      <webElementGuid>2a15a2ec-1d60-45f1-8736-9c723a2483f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='spanLookup_countryOfIssuance_F00I1MT']/span</value>
+      <webElementGuid>d65cdba3-0b10-493f-987e-b7a3fc0546e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[7]/div/table/tbody/tr/td/div/span/span</value>
+      <webElementGuid>1a50f16b-725b-48ec-9a56-ef6aeae8865a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

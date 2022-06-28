@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Postal Code_ui-icon ui-icon-search liv_897e1e</name>
+   <tag></tag>
+   <elementGuidId>fcb56120-b4b0-444c-beec-af1eb503c77c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#spanLookup_addressCO_POSTAL_CODE_F00I1MT > span.ui-icon.ui-icon-search.live-search-ui.ui-state-disabled</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='spanLookup_addressCO_POSTAL_CODE_F00I1MT']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>602866a8-c02a-4b08-a582-e48c53260b5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-search live-search-ui ui-state-disabled</value>
+      <webElementGuid>4883b872-e5b8-4f2e-afd9-ef47d10915bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;spanLookup_addressCO_POSTAL_CODE_F00I1MT&quot;)/span[@class=&quot;ui-icon ui-icon-search live-search-ui ui-state-disabled&quot;]</value>
+      <webElementGuid>8f2b3b20-23f2-4a48-ad62-6f5ee09dace5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='spanLookup_addressCO_POSTAL_CODE_F00I1MT']/span</value>
+      <webElementGuid>7d3b0c84-3a3e-426b-9e3f-6445f274025f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/table/tbody/tr[8]/td[2]/div/table/tbody/tr/td/div/span/span</value>
+      <webElementGuid>771a3080-4185-4a33-8d59-13ae8d3b5eb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

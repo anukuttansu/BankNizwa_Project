@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Menu Options_ui-icon ui-icon-triangle-1-e</name>
+   <tag></tag>
+   <elementGuidId>c0a19766-518e-49bd-9b1d-4ae9fe95372c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-icon.ui-icon-triangle-1-e</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='_selenuimA000']/h3/table/tbody/tr/td/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2322fec1-9379-45da-b0f6-396271169f2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-triangle-1-e</value>
+      <webElementGuid>ab962807-3cd4-4724-a776-52b6f4f6a0d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;_selenuimA000&quot;)/h3[@class=&quot;h3_A000 accordionheader rootheaderappMenu ui-widget-header&quot;]/table[@class=&quot;tableProp&quot;]/tbody[1]/tr[1]/td[1]/span[@class=&quot;accordprefix&quot;]/span[@class=&quot;ui-icon ui-icon-triangle-1-e&quot;]</value>
+      <webElementGuid>f326c366-245b-4c08-823d-b325cca12e42</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='_selenuimA000']/h3/table/tbody/tr/td/span/span</value>
+      <webElementGuid>fb8f2e71-a713-4224-8e02-25a44c877afa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/span/span</value>
+      <webElementGuid>e9f5d148-1b1a-436c-a7f6-f038f568fb1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

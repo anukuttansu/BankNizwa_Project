@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Log Out</name>
+   <tag></tag>
+   <elementGuidId>554e5d04-ebd0-40af-9e0e-0959ecf90188</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ui_bar_div']/table/tbody/tr/td[2]/table/tbody/tr/td[2]/table/tbody/tr/td[3]/table/tbody/tr/td[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d451d60e-b93c-4c9c-8cf5-30b9ac70499a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>nowrap</name>
+      <type>Main</type>
+      <value>nowrap</value>
+      <webElementGuid>9b5f3151-5c18-415d-88de-3cad61c1bdc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>            Log Out     </value>
+      <webElementGuid>a27549cc-3db4-4262-8d8d-a9cca5c16730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui_bar_div&quot;)/table[1]/tbody[1]/tr[1]/td[@class=&quot;header-top-right&quot;]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[3]/table[1]/tbody[1]/tr[1]/td[8]</value>
+      <webElementGuid>fe36e759-89da-4c02-833f-7b4aa1ca0d53</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ui_bar_div']/table/tbody/tr/td[2]/table/tbody/tr/td[2]/table/tbody/tr/td[3]/table/tbody/tr/td[8]</value>
+      <webElementGuid>e1183488-155e-4e90-bce7-2551910ce5d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::td[5]</value>
+      <webElementGuid>5d84daed-7ff7-4413-81a5-ffcd7749964e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Options'])[1]/following::td[13]</value>
+      <webElementGuid>2f422ee4-10bd-4420-bc20-3346525f8f55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::td[10]</value>
+      <webElementGuid>192bed5d-dacc-4d82-946d-eca9c54f6e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]</value>
+      <webElementGuid>d93a4f2a-aec2-474e-95be-7e624ee4aa4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '            Log Out     ' or . = '            Log Out     ')]</value>
+      <webElementGuid>41570a28-f3cc-4d1a-9cd6-9607b15ff159</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_close</name>
+   <tag></tag>
+   <elementGuidId>b1918b73-6f86-4beb-afc7-e3603cf21abd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ui-dialog-titlebar-close.ui-corner-all.ui-state-hover.ui-state-focus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency Denomination'])[2]/following::a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7a252900-773f-4b97-9711-f0f4e5a0ec85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a6f5913f-363f-44df-b163-80a376433e5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dialog-titlebar-close ui-corner-all ui-state-hover ui-state-focus</value>
+      <webElementGuid>c9b5453a-7459-4066-a41e-5f53809cbfb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f063f822-9227-47ed-8462-17c84b000a74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>close</value>
+      <webElementGuid>380d72a0-f5ee-4368-951c-087e52f68fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ui-layout-container&quot;]/div[@class=&quot;ui-dialog ui-widget ui-widget-content ui-corner-all ui-draggable ui-resizable&quot;]/div[@class=&quot;ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix&quot;]/a[@class=&quot;ui-dialog-titlebar-close ui-corner-all ui-state-hover ui-state-focus&quot;]</value>
+      <webElementGuid>a77ff288-bc83-4e4c-99d1-a1cc5bd15d04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency Denomination'])[2]/following::a[1]</value>
+      <webElementGuid>8b6eb8cc-0205-427b-a037-0536bb0fe3ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='of'])[12]/following::a[1]</value>
+      <webElementGuid>793f1e11-afef-4edc-87a7-aa206a46a9b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[9]/preceding::a[2]</value>
+      <webElementGuid>12bbba42-ea5d-489f-96f2-5bdc1984b34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[59]</value>
+      <webElementGuid>12d740ed-045c-4157-8129-0aec39e9a0a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[29]/div/a</value>
+      <webElementGuid>131b02c8-5b57-4aad-bb87-3637c0eda5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'close' or . = 'close')]</value>
+      <webElementGuid>592a12b6-e3ce-4b8f-8268-7768d1aac818</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

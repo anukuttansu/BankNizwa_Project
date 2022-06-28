@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Decimal Points_ui-icon ui-icon-search _47f4ce_1</name>
+   <tag></tag>
+   <elementGuidId>d0ed07ef-61df-4b5c-b332-969658b95c91</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='new_1655900626013_ctstellerCashBalanceDetVO.CURRENCY_CODE_spanLookup_transferCashSubCashGridTbl_Id_L0VVMT']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>901577cf-df1a-4519-92ba-d2a14b1a583c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-icon ui-icon-search live-search-ui</value>
+      <webElementGuid>e62aaf21-0058-4cab-ba97-fe37879896bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_1655900626013_ctstellerCashBalanceDetVO.CURRENCY_CODE_spanLookup_transferCashSubCashGridTbl_Id_L0VVMT&quot;)/span[@class=&quot;ui-icon ui-icon-search live-search-ui&quot;]</value>
+      <webElementGuid>b7f169c2-f489-454c-ad72-c88d59fa112c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='new_1655900626013_ctstellerCashBalanceDetVO.CURRENCY_CODE_spanLookup_transferCashSubCashGridTbl_Id_L0VVMT']/span</value>
+      <webElementGuid>78c67bb8-6c64-4c31-b824-aa8736f34393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/table/tbody/tr/td/div/span/span</value>
+      <webElementGuid>42505f44-b4d7-4ddd-af20-0acfbd036a59</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

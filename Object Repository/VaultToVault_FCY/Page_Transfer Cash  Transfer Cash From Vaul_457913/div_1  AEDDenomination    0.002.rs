@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1  AEDDenomination    0.002</name>
+   <tag></tag>
+   <elementGuidId>84d95aba-7f47-4763-acbb-db4c812b7a9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#gview_transferCashSubCashGridTbl_Id_L0VVMT > div.ui-jqgrid-bdiv</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='gview_transferCashSubCashGridTbl_Id_L0VVMT']/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1701eb09-ec7c-4f1e-98ce-daf9e2877800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-jqgrid-bdiv</value>
+      <webElementGuid>f2ddc586-13ba-43fc-8cf8-c0135d03023b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1  AEDDenomination     0.00 2</value>
+      <webElementGuid>c34e3015-c7a6-4ba4-984e-e6e9fdf2bc9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gview_transferCashSubCashGridTbl_Id_L0VVMT&quot;)/div[@class=&quot;ui-jqgrid-bdiv&quot;]</value>
+      <webElementGuid>25d257ed-a673-436e-9b0e-10970f12762d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gview_transferCashSubCashGridTbl_Id_L0VVMT']/div[3]</value>
+      <webElementGuid>162a9eec-6b0d-4caa-ae74-e88fd20c2514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Decimal Points'])[1]/following::div[1]</value>
+      <webElementGuid>6bb987cf-46b5-4edc-a7c2-0a9e1c683bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JV OP.No'])[1]/following::div[2]</value>
+      <webElementGuid>f1f10d36-0400-4fae-8462-4c35e01a0fbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/preceding::div[9]</value>
+      <webElementGuid>3901dfbd-99e3-4943-b29b-acf5ece3164c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div[3]</value>
+      <webElementGuid>e136ba6a-f9fc-4b9f-ab16-a7cf4e25c15b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1  AEDDenomination     0.00 2' or . = '1  AEDDenomination     0.00 2')]</value>
+      <webElementGuid>7e7488f0-1dc3-4212-a731-4075ed08f1c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

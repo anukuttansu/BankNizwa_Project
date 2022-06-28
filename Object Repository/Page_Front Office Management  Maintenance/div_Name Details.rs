@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Name Details</name>
+   <tag></tag>
+   <elementGuidId>0c417a09-3de6-4c01-8c1e-a96302c7f930</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fomNameDetailsDialogDiv_F00I1MT']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c975519e-43c4-4090-9162-ffc8a921ef7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>collapsibleContainerTitle ui-state-focus ui-corner-top</value>
+      <webElementGuid>9d1900ce-bfe8-4385-90b5-349d921d9900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Name Details </value>
+      <webElementGuid>a86a3846-2268-4d4d-97ab-dea81f9ac6cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fomNameDetailsDialogDiv_F00I1MT&quot;)/div[@class=&quot;collapsibleContainerTitle ui-state-focus ui-corner-top&quot;]</value>
+      <webElementGuid>f82bbf80-82fe-43e3-9855-b68769975fe2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fomNameDetailsDialogDiv_F00I1MT']/div[2]</value>
+      <webElementGuid>cecca238-fc54-4a6b-a7c0-05a30d106b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joint'])[1]/following::div[3]</value>
+      <webElementGuid>daa6e009-ec9e-4759-ab1b-6e9e192b64e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card Name'])[2]/following::div[3]</value>
+      <webElementGuid>5523a9a9-aca4-4d8a-bac1-fd033e243b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Passport Info'])[1]/preceding::div[4]</value>
+      <webElementGuid>3bb452f0-fafb-4dca-94e7-b0d127e4a35a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/div[3]/div[2]</value>
+      <webElementGuid>c9c59b35-1470-4a7b-96d1-d75c04e61ada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Name Details ' or . = 'Name Details ')]</value>
+      <webElementGuid>790e75bb-2f82-4afa-9891-e6fb5fe875c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

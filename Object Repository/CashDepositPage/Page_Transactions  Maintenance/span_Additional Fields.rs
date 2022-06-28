@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Additional Fields</name>
+   <tag></tag>
+   <elementGuidId>46d75f65-f31f-43f6-87de-aeea6f4eca12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='additional_fields_submit_D001MT']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#additional_fields_submit_D001MT > span.ui-button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a397b07-1d38-4217-bec7-e12185b9df77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-button-text</value>
+      <webElementGuid>0a094e65-37f4-4088-9863-b845d608a736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Additional Fields  
+</value>
+      <webElementGuid>8808796b-e525-4a4e-9296-67ab6ff4d403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;additional_fields_submit_D001MT&quot;)/span[@class=&quot;ui-button-text&quot;]</value>
+      <webElementGuid>4471bc99-367e-4e65-89f6-64b1da4e4b5d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='additional_fields_submit_D001MT']/span[2]</value>
+      <webElementGuid>0fa90f79-1ba1-4853-95d9-72226e628fb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Name'])[4]/following::span[2]</value>
+      <webElementGuid>944b29f3-4ad8-46df-82b7-5f42cd90f799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waive Charges'])[1]/following::span[6]</value>
+      <webElementGuid>594dcfd6-ce0a-455e-823f-2ce92b1d94b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CY Denom.'])[1]/preceding::span[2]</value>
+      <webElementGuid>8d094a32-33d5-4bde-bd2b-e3e63f88bad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/table/tbody/tr/td/div/button/span[2]</value>
+      <webElementGuid>a5043fbe-f395-479c-8e41-4c2f05e6421f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Additional Fields  
+' or . = ' Additional Fields  
+')]</value>
+      <webElementGuid>843c12da-2f4d-448a-8a54-c5274af5a0b6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

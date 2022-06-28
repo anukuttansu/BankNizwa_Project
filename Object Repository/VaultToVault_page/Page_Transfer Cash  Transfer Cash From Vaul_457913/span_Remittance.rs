@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Remittance</name>
+   <tag></tag>
+   <elementGuidId>ff644cfd-bd50-4c48-ae2e-fea73214eded</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a[title=&quot;Remittance&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='transferCashMaintTabs3_L0VVMT']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17fbf433-8867-4d74-81fd-440a5efc4551</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Remittance</value>
+      <webElementGuid>81c62b5f-601b-4c3a-904b-b40bd47cc71b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transferCashMaintTabs3_L0VVMT&quot;)/a[1]/span[1]</value>
+      <webElementGuid>79b51622-176c-4486-a185-ebac732757a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='transferCashMaintTabs3_L0VVMT']/a/span</value>
+      <webElementGuid>a9635406-923d-4e21-8560-b72232e90afd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash'])[1]/following::span[1]</value>
+      <webElementGuid>074d5313-091b-4d7e-beb0-f93e22b6a271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remittance Type'])[1]/following::span[2]</value>
+      <webElementGuid>d7af077e-c790-4340-b938-5ebd6ee92f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading...'])[2]/preceding::span[1]</value>
+      <webElementGuid>f5f80cf4-d8a2-4d78-8f15-0f98f1d5f2d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash'])[2]/preceding::span[2]</value>
+      <webElementGuid>9f0c98d6-15ed-44da-83a5-bc8908819f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remittance']/parent::*</value>
+      <webElementGuid>a80ebf3c-a6cc-4673-b530-fbd3a80c6177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>03017813-fc1a-4796-b59c-6895a9b037e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Remittance' or . = 'Remittance')]</value>
+      <webElementGuid>6eb485bb-43e6-46e4-9133-11251ee42795</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
